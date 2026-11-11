@@ -1,6 +1,7 @@
 # BlackArch Linux 
 
-<img width="1248" height="832" alt="OIG2 2OVE5krAnq8x" src="https://github.com/user-attachments/assets/d3b73955-06f4-4e30-8b39-58d09cc8d9ab" />
+<img width="1248" height="832" alt="OIG2 (1)" src="https://github.com/user-attachments/assets/d3ae34b0-c283-40eb-999d-f6132ef59f3e" />
+
 
 
 **Version :** `2026 - 2027`  
