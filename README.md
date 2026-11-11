@@ -1,17 +1,6 @@
-# ⚔️ BlackArch Linux - Référentiel Ultime A à Z
+# BlackArch Linux 
 
-<div align="center">
 
-```
-██████╗░██╗░░██╗░█████╗░░█████╗░██╗░░██╗░█████╗░██████╗░░█████╗░██╗░░░░░██╗░░░██╗██╗
-██╔══██╗██║░░██║██╔══██╗██╔══██╗██║░██╔╝██╔══██╗██╔══██╗██╔══██╗██║░░░░░██║░░░██║██║
-██████╦╝███████║███████║██║░░╚═╝█████═╝░███████║██████╔╝███████║██║░░░░░╚██╗░██╔╝██║
-██╔══██╗██╔══██║██╔══██║██║░░██╗██╔═██╗░██╔══██║██╔══██╗██╔══██║██║░░░░░░╚████╔╝░██║
-██████╦╝██║░░██║██║░░██║╚█████╔╝██║░╚██╗██║░░██║██║░░██║██║░░██║███████╗░░╚██╔╝░░██║
-╚═════╝░╚═╝░░╚═╝╚═╝░░╚═╝░╚════╝░╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝╚══════╝░░░╚═╝░░░╚═╝
-```
-
-# 📘 README PYTHON AVANCÉ - BLACKARCH / ARCH LINUX
 
 **Version :** `2026 - 2027`  
 **Auteur :** `hackerstchad`  
@@ -26,7 +15,7 @@
 
 ---
 
-## 📑 Table des matières
+##  Table des matières
 
 1. [Introduction](#1-introduction)
 2. [Installation complète](#2-installation-complète)
@@ -2568,22 +2557,12 @@ sudo pacman -S ansible
 ---
 
 <div align="center">
-
-## 🛠️ Crédits
+    
+##  Crédits
 
 **Auteur :** `hackerstchad`  
 **Version :** `2026 - 2027`  
 **Distribution cible :** `BlackArch Linux` / `Arch Linux`  
 **Langage :** `Python 3.13+`  
-
-```
-   _  _     _             _   _            _     _   
-  | || |___| |_ __ _ _ __| |_| |_  __ _ __| |___| |_ 
-  | __ / _ \  _/ _` | '_ \  _| ' \/ _` / _` / _ \  _|
-  |_||_\___/\__\__,_| .__/\__|_||_\__,_\__,_\___/\__|
-                    |_|                               
-```
-
-*README généré pour la communauté offensive et défensive.*
 
 </div>
